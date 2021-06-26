@@ -3,6 +3,7 @@
 # Tecnologias utilizadas
   - React
   - Typescript
+  - SASS
 
 <br/>
 
