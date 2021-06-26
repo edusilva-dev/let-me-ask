@@ -1,3 +1,3 @@
 <p align="center">
-  <b>Letmeask</b>
+  # Letmeask
 </p>
