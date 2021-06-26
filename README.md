@@ -1,6 +1,6 @@
 <h1 align="center">Letmeask</h1>
 
-<img src="docs/letmeask.jpg" style="width: 100%"/>
+<img src="docs/letmeask.png" style="width: 100%"/>
 
 <hr/>
 
