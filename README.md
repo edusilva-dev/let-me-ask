@@ -1,5 +1,9 @@
 <h1 align="center">Letmeask</h1>
 
+<img src="docs/"/>
+
+<hr/>
+
 # Tecnologias utilizadas
   - React
   - Typescript
